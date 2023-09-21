@@ -1,0 +1,986 @@
+.component-1,
+.component-1 * {
+  box-sizing: border-box;
+}
+.component-1 {
+  width: 2922px;
+  height: 2113px;
+  position: relative;
+}
+.home-screen-w-main-menu {
+  background: #e8a643;
+  width: 1440px;
+  height: 1024px;
+  position: absolute;
+  left: 734px;
+  top: 0px;
+  overflow: hidden;
+}
+.rectangle-9 {
+  background: rgba(224, 136, 4, 0.75);
+  border-radius: 10px;
+  width: 375px;
+  height: 200px;
+  position: absolute;
+  left: 522px;
+  top: 54px;
+}
+.card-transaction {
+  width: 433px;
+  height: 109px;
+  position: absolute;
+  left: 29px;
+  top: 788px;
+}
+.rectangle-2 {
+  background: var(--base-light-light-80, #fcfcfc);
+  border-radius: 24px;
+  width: 433px;
+  height: 109px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.frame-6 {
+  display: flex;
+  flex-direction: row;
+  gap: 9px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 390.47px;
+  position: absolute;
+  left: 21.91px;
+  top: 23.89px;
+}
+.frame-5 {
+  background: var(--yellow-yellow-20, #fceed4);
+  border-radius: 16px;
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.magicons-glyph-ecommerce-shopping-shopping-bag {
+  flex-shrink: 0;
+  width: 40px;
+  height: 40px;
+  position: relative;
+  overflow: hidden;
+}
+.shopping-bag {
+  position: absolute;
+  left: 5px;
+  top: 5px;
+  overflow: visible;
+}
+.frame-4 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  flex: 1;
+  position: relative;
+}
+.frame-3 {
+  padding: 6px 0px 6px 0px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: space-between;
+  flex-shrink: 0;
+  height: 60px;
+  position: relative;
+}
+.shopping {
+  color: var(--base-dark-dark-25, #292b2d);
+  text-align: left;
+  font: 500 16px "Inter", sans-serif;
+  position: relative;
+}
+.buy-an-avocado {
+  color: var(--base-light-light-20, #91919f);
+  text-align: left;
+  font: 500 13px "Inter", sans-serif;
+  position: relative;
+}
+.frame-47 {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  align-items: flex-end;
+  justify-content: center;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.rp-229-000 {
+  color: var(--red-red-100, #fd3c4a);
+  text-align: left;
+  font: 600 16px "Inter", sans-serif;
+  position: relative;
+}
+._03-30-pm {
+  color: var(--base-light-light-20, #91919f);
+  text-align: left;
+  font: 500 13px "Inter", sans-serif;
+  position: relative;
+}
+.card-transaction2 {
+  width: 433px;
+  height: 109px;
+  position: absolute;
+  left: 505px;
+  top: 788px;
+}
+.frame-52 {
+  background: var(--violet-violet-20, #eee5ff);
+  border-radius: 16px;
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.magicons-glyph-finance-recurring-bill {
+  flex-shrink: 0;
+  width: 40px;
+  height: 40px;
+  position: relative;
+  overflow: hidden;
+}
+.recurring-bill {
+  position: absolute;
+  inset: 0;
+}
+.recurring-bill2 {
+  position: absolute;
+  left: 7.5px;
+  top: 5px;
+  overflow: visible;
+}
+.rectangle-8 {
+  background: linear-gradient(
+    183.33deg,
+    rgba(255, 246, 229, 1) 0%,
+    rgba(248, 237, 216, 0) 98.90784621238708%
+  );
+  border-radius: 0px 0px 32px 32px;
+  width: 1440px;
+  height: 425px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.account-balance {
+  color: var(--base-light-light-20, #91919f);
+  text-align: left;
+  font: 500 14px "Inter", sans-serif;
+  position: absolute;
+  left: 649px;
+  top: 89px;
+  width: 132px;
+  height: 25px;
+}
+._9400 {
+  color: var(--base-dark-dark-75, #161719);
+  text-align: center;
+  font: 600 40px "Inter", sans-serif;
+  position: absolute;
+  left: 522px;
+  top: 129px;
+  width: 383px;
+  height: 75px;
+}
+.expenses {
+  position: absolute;
+  inset: 0;
+}
+.group-3 {
+  width: 253.97px;
+  height: 125.38px;
+  position: static;
+}
+.rectangle-6 {
+  background: var(--red-red-100, #fd3c4a);
+  border-radius: 28px;
+  width: 253.97px;
+  height: 125.38px;
+  position: absolute;
+  left: 985.03px;
+  top: 254.62px;
+}
+.expenses2 {
+  color: var(--base-light-light-80, #fcfcfc);
+  text-align: left;
+  font: 500 14px "Inter", sans-serif;
+  position: absolute;
+  left: 1069.74px;
+  top: 281.26px;
+  width: 100.66px;
+  height: 26.64px;
+}
+._1200 {
+  color: var(--base-light-light-80, #fcfcfc);
+  text-align: left;
+  font: 600 22px "Inter", sans-serif;
+  position: absolute;
+  left: 1056.1px;
+  top: 312.61px;
+  width: 154.86px;
+  height: 42.32px;
+}
+.income {
+  position: absolute;
+  inset: 0;
+}
+.group-2 {
+  width: 260.11px;
+  height: 125.38px;
+  position: static;
+}
+.rectangle-62 {
+  background: #00a86b;
+  border-radius: 28px;
+  width: 260.11px;
+  height: 125.38px;
+  position: absolute;
+  left: 201px;
+  top: 246.78px;
+}
+.income2 {
+  color: var(--base-light-light-80, #fcfcfc);
+  text-align: left;
+  font: 500 14px "Inter", sans-serif;
+  position: absolute;
+  left: 291.87px;
+  top: 268.72px;
+  width: 79.3px;
+  height: 26.64px;
+}
+._5000 {
+  color: var(--base-light-light-80, #fcfcfc);
+  text-align: left;
+  font: 600 22px "Inter", sans-serif;
+  position: absolute;
+  left: 273.23px;
+  top: 303.2px;
+  width: 177.64px;
+  height: 34.48px;
+}
+.bars {
+  background: #ffffff;
+  border-radius: 30px;
+  padding: 8px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: center;
+  width: 484px;
+  height: 69px;
+  position: absolute;
+  left: 478px;
+  top: 668px;
+}
+.frame-88 {
+  padding: 8px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+}
+.spend-frequency {
+  color: var(--base-dark-dark-25, #292b2d);
+  text-align: left;
+  font: var(--title-title-3, 600 18px "Inter", sans-serif);
+  position: relative;
+  align-self: stretch;
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.pill {
+  background: var(--violet-violet-20, #eee5ff);
+  border-radius: 40px;
+  border-style: solid;
+  border-color: transparent;
+  border-width: 1px;
+  padding: 8px 16px 8px 16px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  height: 32px;
+  position: relative;
+}
+.see-all {
+  color: var(--violet-violet-100, #7f3dff);
+  text-align: center;
+  font: var(--body-body-3, 500 14px/18px "Inter", sans-serif);
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.group-512665 {
+  position: absolute;
+  inset: 0;
+}
+.group-512666 {
+  width: 241.27px;
+  height: 70.38px;
+  position: static;
+}
+.rectangle-15 {
+  background: #ffffff;
+  width: 241.27px;
+  height: 70.38px;
+  position: absolute;
+  left: 599.36px;
+  top: 512px;
+}
+.add-income {
+  color: #000000;
+  text-align: center;
+  font: 800 24px/18px "Inter", sans-serif;
+  position: absolute;
+  left: 627.75px;
+  top: 535.46px;
+  width: 184.5px;
+  height: 22.23px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.card-transaction3 {
+  width: 433px;
+  height: 109px;
+  position: absolute;
+  left: 977px;
+  top: 788px;
+}
+.rectangle-22 {
+  background: #fff9f9;
+  border-radius: 24px;
+  width: 433px;
+  height: 109px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.frame-53 {
+  background: var(--red-red-20, #fdd5d7);
+  border-radius: 16px;
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.magicons-glyph-travel-restaurant {
+  flex-shrink: 0;
+  width: 40px;
+  height: 40px;
+  position: relative;
+  overflow: hidden;
+}
+.restaurant {
+  position: absolute;
+  inset: 0;
+}
+.restaurant2 {
+  position: absolute;
+  left: 6.25px;
+  top: 5px;
+  overflow: visible;
+}
+.add-income-and-source {
+  background: #e8a643;
+  width: 1440px;
+  height: 1024px;
+  position: absolute;
+  left: 0px;
+  top: 1089px;
+  overflow: hidden;
+}
+.rectangle-11 {
+  background: #f2c683;
+  border-radius: 50px;
+  width: 1221px;
+  height: 1024px;
+  position: absolute;
+  left: 108px;
+  top: 0px;
+  filter: blur(20px);
+}
+.rectangle-12 {
+  position: absolute;
+  left: 601px;
+  top: 188px;
+  overflow: visible;
+}
+.rectangle-13 {
+  position: absolute;
+  left: 601px;
+  top: 112px;
+  overflow: visible;
+}
+.amount {
+  color: #000000;
+  text-align: center;
+  font: 900 40px/18px "Inter", sans-serif;
+  position: absolute;
+  left: 300px;
+  top: 194px;
+  width: 301px;
+  height: 31px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.source {
+  color: #000000;
+  text-align: center;
+  font: 900 40px/18px "Inter", sans-serif;
+  position: absolute;
+  left: 300px;
+  top: 118px;
+  width: 301px;
+  height: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.add-amount {
+  color: #000000;
+  text-align: center;
+  font: 300 italic 32px/18px "Inter", sans-serif;
+  position: absolute;
+  left: 720px;
+  top: 194px;
+  width: 299px;
+  height: 31px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.select-source {
+  color: #000000;
+  text-align: center;
+  font: 300 italic 32px/18px "Inter", sans-serif;
+  position: absolute;
+  left: 720px;
+  top: 118px;
+  width: 299px;
+  height: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.move {
+  position: absolute;
+  left: 1092px;
+  top: 119px;
+  overflow: visible;
+}
+.the-ent {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-14 {
+  background: #ffffff;
+  width: 194.72px;
+  height: 66.97px;
+  position: absolute;
+  left: 897.4px;
+  top: 844.03px;
+}
+.enter {
+  color: #000000;
+  text-align: left;
+  font: 800 36px "Inter", sans-serif;
+  position: absolute;
+  left: 934.66px;
+  top: 850.96px;
+  width: 120.2px;
+  height: 53.11px;
+}
+.bac {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-142 {
+  background: #ffffff;
+  width: 194.72px;
+  height: 66.97px;
+  position: absolute;
+  left: 363.71px;
+  top: 844.03px;
+}
+.back {
+  color: #000000;
+  text-align: left;
+  font: 800 36px "Inter", sans-serif;
+  position: absolute;
+  left: 400.97px;
+  top: 850.96px;
+  width: 120.2px;
+  height: 53.11px;
+}
+.group-512659 {
+  position: absolute;
+  inset: 0;
+}
+._6-no-icon {
+  position: absolute;
+  left: 857.73px;
+  top: 471.09px;
+  overflow: visible;
+}
+._7-no-icon {
+  width: 108.18px;
+  height: 103.92px;
+  position: absolute;
+  left: 473.09px;
+  top: 648.9px;
+  overflow: hidden;
+}
+.vector9 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+._7 {
+  text-align: left;
+  font: 800 63px "Inter", sans-serif;
+  position: absolute;
+  left: 34.08px;
+  top: 8.83px;
+  width: 45.68px;
+  height: 87.75px;
+}
+._8-no-icon {
+  width: 108.18px;
+  height: 103.92px;
+  position: absolute;
+  left: 665.41px;
+  top: 639.66px;
+  overflow: hidden;
+}
+.vector10 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+._8 {
+  text-align: left;
+  font: 800 63px "Inter", sans-serif;
+  position: absolute;
+  left: 28.13px;
+  top: 7.79px;
+  width: 51.69px;
+  height: 87.75px;
+}
+._9-no-icon {
+  width: 108.18px;
+  height: 103.92px;
+  position: absolute;
+  left: 857.73px;
+  top: 639.66px;
+  overflow: hidden;
+}
+.vector11 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+._9 {
+  text-align: left;
+  font: 800 63px "Inter", sans-serif;
+  position: absolute;
+  left: 28.13px;
+  top: 7.79px;
+  width: 51.69px;
+  height: 87.75px;
+}
+._5-no-icon {
+  position: absolute;
+  left: 665.41px;
+  top: 471.09px;
+  overflow: visible;
+}
+._4-no-icon {
+  position: absolute;
+  left: 473.09px;
+  top: 471.09px;
+  overflow: visible;
+}
+._2-no-icon {
+  position: absolute;
+  left: 665.41px;
+  top: 293.28px;
+  overflow: visible;
+}
+._3-no-icon {
+  position: absolute;
+  left: 857.73px;
+  top: 293.28px;
+  overflow: visible;
+}
+._1-no-icon {
+  position: absolute;
+  left: 473.09px;
+  top: 293.28px;
+  overflow: visible;
+}
+._0-no-icon-1 {
+  position: absolute;
+  left: 665.41px;
+  top: 807.08px;
+  overflow: visible;
+}
+.recent-transactions {
+  background: #e8a643;
+  width: 1440px;
+  height: 1024px;
+  position: absolute;
+  left: 1482px;
+  top: 1089px;
+  overflow: hidden;
+}
+.bars2 {
+  background: #ffffff;
+  padding: 8px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: center;
+  width: 520px;
+  height: 66px;
+  position: absolute;
+  left: 149px;
+  top: 292px;
+}
+.yesterday {
+  color: #0d0e0f;
+  text-align: left;
+  font: var(--title-title-3, 600 18px "Inter", sans-serif);
+  position: relative;
+}
+.card-transaction4 {
+  width: 467px;
+  height: 123px;
+  position: absolute;
+  left: 175px;
+  top: 366px;
+}
+.rectangle-23 {
+  background: var(--base-light-light-80, #fcfcfc);
+  border-radius: 24px;
+  width: 467px;
+  height: 123px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.frame-62 {
+  display: flex;
+  flex-direction: row;
+  gap: 9px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 421.13px;
+  position: absolute;
+  left: 23.63px;
+  top: 30.81px;
+}
+.shopping-bag2 {
+  position: absolute;
+  left: 5px;
+  top: 5px;
+  overflow: visible;
+}
+.card-transaction5 {
+  width: 467px;
+  height: 123px;
+  position: absolute;
+  left: 175px;
+  top: 507px;
+}
+.recurring-bill3 {
+  position: absolute;
+  left: 7.5px;
+  top: 5px;
+  overflow: visible;
+}
+.card-transaction6 {
+  width: 466px;
+  height: 123px;
+  position: absolute;
+  left: 176px;
+  top: 648px;
+}
+.rectangle-24 {
+  background: var(--base-light-light-80, #fcfcfc);
+  border-radius: 24px;
+  width: 466px;
+  height: 123px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.frame-63 {
+  display: flex;
+  flex-direction: row;
+  gap: 9px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 420.23px;
+  position: absolute;
+  left: 23.58px;
+  top: 30.81px;
+}
+.restaurant3 {
+  position: absolute;
+  left: 6.25px;
+  top: 5px;
+  overflow: visible;
+}
+.bars3 {
+  background: #ffffff;
+  padding: 8px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: center;
+  width: 520px;
+  height: 67px;
+  position: absolute;
+  left: 796px;
+  top: 290px;
+}
+.card-transaction7 {
+  width: 466px;
+  height: 123px;
+  position: absolute;
+  left: 822px;
+  top: 373px;
+}
+.frame-54 {
+  background: var(--green-green-20, #cffaea);
+  border-radius: 16px;
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.magicons-glyph-finance-salary {
+  flex-shrink: 0;
+  width: 40px;
+  height: 40px;
+  position: relative;
+  overflow: hidden;
+}
+.salary {
+  position: absolute;
+  inset: 0;
+}
+.salary2 {
+  position: absolute;
+  left: 7.5px;
+  top: 5.19px;
+  overflow: visible;
+}
+.salary3 {
+  color: var(--base-dark-dark-25, #292b2d);
+  text-align: left;
+  font: 500 16px "Inter", sans-serif;
+  position: relative;
+}
+.rp-3-129-000 {
+  color: var(--primary-green, #00a86b);
+  text-align: left;
+  font: 600 16px "Inter", sans-serif;
+  position: relative;
+}
+._04-30-pm {
+  color: var(--base-light-light-20, #91919f);
+  text-align: left;
+  font: 500 13px "Inter", sans-serif;
+  position: relative;
+}
+.card-transaction8 {
+  width: 466px;
+  height: 123px;
+  position: absolute;
+  left: 822px;
+  top: 507px;
+}
+.frame-55 {
+  background: var(--blue-blue-20, #bddcff);
+  border-radius: 16px;
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.magicons-glyph-travel-car {
+  flex-shrink: 0;
+  width: 40px;
+  height: 40px;
+  position: relative;
+  overflow: hidden;
+}
+.car {
+  position: absolute;
+  left: 2.5px;
+  top: 5px;
+  overflow: visible;
+}
+.tabs {
+  border-radius: 16px;
+  border-style: solid;
+  border-color: var(--base-light-light-80, #fcfcfc);
+  border-width: 1px;
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  width: 480px;
+  height: 46px;
+  position: absolute;
+  left: 460px;
+  top: 135px;
+}
+.frame-14 {
+  background: var(--yellow-yellow-20, #fceed4);
+  border-radius: 16px;
+  padding: 8px 24px 8px 24px;
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.today {
+  color: var(--yellow-yellow-100, #fcac12);
+  text-align: center;
+  font: 700 14px/18px "Inter", sans-serif;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.frame-15 {
+  opacity: 0.800000011920929;
+  padding: 8px 24px 8px 24px;
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.week {
+  color: var(--base-light-light-20, #91919f);
+  text-align: center;
+  font: var(--body-body-3, 500 14px/18px "Inter", sans-serif);
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.frame-16 {
+  opacity: 0.800000011920929;
+  padding: 8px 24px 8px 24px;
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.month {
+  color: var(--base-light-light-20, #91919f);
+  text-align: center;
+  font: var(--body-body-3, 500 14px/18px "Inter", sans-serif);
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.frame-17 {
+  border-radius: 16px;
+  padding: 8px 24px 8px 24px;
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.year {
+  color: var(--base-light-light-20, #91919f);
+  text-align: left;
+  font: var(--body-body-3, 500 14px/18px "Inter", sans-serif);
+  position: relative;
+}
+.the-ebac {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-143 {
+  background: #ffffff;
+  border-radius: 30px;
+  width: 224.8px;
+  height: 80px;
+  position: absolute;
+  left: 124px;
+  top: 118px;
+}
+.back2 {
+  color: #000000;
+  text-align: left;
+  font: 800 36px "Inter", sans-serif;
+  position: absolute;
+  left: 167.02px;
+  top: 126.28px;
+  width: 138.77px;
+  height: 63.45px;
+}
